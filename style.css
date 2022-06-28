@@ -1,0 +1,33 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: crimson;
+}
+div img{
+    border-radius:50%;
+    height: 100px;
+    width: 200px,80%;
+}
+h4{
+    color: navy;
+}
+p{
+    color: darkturquoise;
+}
+marquee{
+    color: darkblue;
+}
+ul{
+    color: red;
+}
+div{
+    color:saddlebrown;
+}
+div p{
+    color: darkorange;
+}
+fieldset{
+    color: blueviolet;
+}
